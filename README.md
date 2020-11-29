@@ -1,1 +1,1 @@
-# python_mailed
+# python_mailer
